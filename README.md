@@ -7,22 +7,16 @@ Here is a protfolio website to demostrate the skills [abshkpskr.github.io](abshk
 
 ### 🔭 I’m currently working on : [Zomato review Analysis](https://github.com/AbshkPskr/Zomato-Reviews-Analysis)
 ### 🌱 I’m currently learning : [Google data analytics certification](https://www.coursera.org/professional-certificates/google-data-analytics)
-### 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/abshkpskr/)
+### 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/abshkpskr/) | [Medium](https://medium.com/https://medium.com/@282abhishek) | [HackerRank](https://www.hackerrank.com/282abhishek)
 
 
 
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Connect with me
-- [LinkedIn](https://linkedin.com/in/abshkpskr)
-- [Medium](https://medium.com/https://medium.com/@282abhishek)
-- [HackerRank](https://www.hackerrank.com/282abhishek)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abshkpskr&show_icons=true&locale=en&layout=compact" alt="abshkpskr" /></p>
 
