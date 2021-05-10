@@ -6,11 +6,8 @@ Coming to the technical side of me. I have experience in building live dashboard
 Here is a protfolio website to demostrate the skills [abshkpskr.github.io](abshkpskr.github.io)
 
 ### 🔭 I’m currently working on : [Zomato review Analysis](https://github.com/AbshkPskr/Zomato-Reviews-Analysis)
-
-🌱 I’m currently learning : [Google data analytics certification](https://www.coursera.org/professional-certificates/google-data-analytics)
-
-📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/abshkpskr/)
-
+### 🌱 I’m currently learning : [Google data analytics certification](https://www.coursera.org/professional-certificates/google-data-analytics)
+### 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/abshkpskr/)
 
 
 
