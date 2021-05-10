@@ -3,7 +3,7 @@ Hi, I am Abhishek, a Data analyst. I have worked on various data analytics proje
 
 Coming to the technical side of me. I have experience in building live dashboard that updates on changing data. Worked independently from requirement gathering to deployment including data collection, cleaning and analysis. Completed certificates in data science. Impleted machine learning algorithms in predictive analytics. And still have lot space to learn.
 
-#### Here is a protfolio website to demostrate the skills :  [abshkpskr.github.io](abshkpskr.github.io)
+#### :chart_with_upwards_trend: Here is a protfolio website to demostrate the skills :  [abshkpskr.github.io](abshkpskr.github.io)
 #### Data science portfolio repository for source code    : [Data-science-portfolio](https://github.com/AbshkPskr/Data-science-portfolio)
 
 ### 🔭 I’m currently working on : [Zomato review Analysis](https://github.com/AbshkPskr/Zomato-Reviews-Analysis)
