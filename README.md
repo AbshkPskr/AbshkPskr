@@ -14,7 +14,7 @@ Coming to the technical side of me. I have experience in building live dashboard
 ## 
 🔭 I’m currently working on : [Zomato review Analysis](https://github.com/AbshkPskr/Zomato-Reviews-Analysis) | [See it in action](http://abshkpskr211.pythonanywhere.com/) </br>
 🌱 I’m currently learning : [Google data analytics certification](https://www.coursera.org/professional-certificates/google-data-analytics) </br>
-📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/abshkpskr/) | [Medium](https://medium.com/https://medium.com/@282abhishek) | [HackerRank](https://www.hackerrank.com/282abhishek)
+📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/abshkpskr/) | [Medium](https://medium.com/https://medium.com/@282abhishek) | [HackerRank](https://www.hackerrank.com/282abhishek) | 282abhishek@gmail.com
 
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
