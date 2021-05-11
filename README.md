@@ -5,6 +5,7 @@ Coming to the technical side of me. I have experience in building live dashboard
 
 #### :closed_book: Here is a protfolio website to demostrate the skills :  [abshkpskr.github.io](abshkpskr.github.io)
 #### :chart_with_upwards_trend: Data science portfolio repository for source code    : [Data-science-portfolio](https://github.com/AbshkPskr/Data-science-portfolio)
+#### :scroll: 
 
 #### 🔭 I’m currently working on : [Zomato review Analysis](https://github.com/AbshkPskr/Zomato-Reviews-Analysis) | [See it in action](http://abshkpskr211.pythonanywhere.com/)
 #### 🌱 I’m currently learning : [Google data analytics certification](https://www.coursera.org/professional-certificates/google-data-analytics)
