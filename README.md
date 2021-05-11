@@ -6,8 +6,7 @@ Coming to the technical side of me. I have experience in building live dashboard
 #### :closed_book: Here is a protfolio website to demostrate the skills :  [abshkpskr.github.io](abshkpskr.github.io)
 #### :chart_with_upwards_trend: Data science portfolio repository for source code : [Data-science-portfolio](https://github.com/AbshkPskr/Data-science-portfolio)
 #### :scroll: Data science certificates : [Edwisor](https://github.com/AbshkPskr/abshkpskr.github.io/blob/master/Certificates/Edwisor.pdf)
-<a href="//github.com/mozilla/pdf.js/raw/master/examples/helloworld/helloworld.pdf">Test PDF</a>
-<a href="//github.com/AbshkPskr/abshkpskr.github.io/blob/master/Certificates/Edwisor.pdf">Test PDF</a>
+<a href="//github.com/AbshkPskr/abshkpskr.github.io/blob/master/Certificates/Edwisor.pdf" target='_blank'>Test PDF</a>
 #### :page_facing_up: Link to my resume if you have any opportunities : [Resume]()
 
 #### 🔭 I’m currently working on : [Zomato review Analysis](https://github.com/AbshkPskr/Zomato-Reviews-Analysis) | [See it in action](http://abshkpskr211.pythonanywhere.com/)
