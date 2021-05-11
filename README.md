@@ -1,9 +1,4 @@
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='50' align="left"/> Hello there !
-
-![version :25.03.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=AbhishekSinghDhadwal&color=red)&nbsp;
-[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/AbhishekSinghDhadwal?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='30' align="left"/> Hello there !
 
 ## About me
 Hi, I am Abhishek, a Data analyst. I have worked on various data analytics projects and eager to learn more in the realm of data. My curiosity to understand the functioning of the world around us, and desire to learn more, lead me to explore the vast quantity of data. The kind of tasks and objectives that can be achieved, the endless answers that data can give, the information that we can gather and process all together can bring a purpose into reality through the process of data wrangling has always fascinated me.
