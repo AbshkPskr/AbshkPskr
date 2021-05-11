@@ -11,10 +11,10 @@ Hi, I am Abhishek, a Data analyst. I have worked on various data analytics proje
 Coming to the technical side of me. I have experience in building live dashboard that updates with new data. Worked independently from requirement gathering to deployment including data collection, cleaning and analysis. Completed certificates in data science. Impleted machine learning algorithms in predictive analytics. And still have lot space to learn.
 
 ## Glimpse of my work
-#### :closed_book: Here is a protfolio website to demostrate the skills :  [abshkpskr.github.io](abshkpskr.github.io)
-#### :chart_with_upwards_trend: Data science portfolio repository for source code : [Data-science-portfolio](https://github.com/AbshkPskr/Data-science-portfolio)
-#### :scroll: Data science certificates : [Edwisor](https://github.com/AbshkPskr/abshkpskr.github.io/blob/master/Certificates/Edwisor.pdf)
-#### :page_facing_up: Link to my resume if you have any opportunities : [Resume.pdf](https://github.com/AbshkPskr/abshkpskr.github.io/blob/master/resume/resume.pdf)
+:closed_book: Here is a protfolio website to demostrate the skills :  [abshkpskr.github.io](abshkpskr.github.io) </br>
+:chart_with_upwards_trend: Data science portfolio repository for source code : [Data-science-portfolio](https://github.com/AbshkPskr/Data-science-portfolio) </br>
+:scroll: Data science certificates : [Edwisor](https://github.com/AbshkPskr/abshkpskr.github.io/blob/master/Certificates/Edwisor.pdf) </br>
+:page_facing_up: Link to my resume if you have any opportunities : [Resume.pdf](https://github.com/AbshkPskr/abshkpskr.github.io/blob/master/resume/resume.pdf)
 
 ## 
 🔭 I’m currently working on : [Zomato review Analysis](https://github.com/AbshkPskr/Zomato-Reviews-Analysis) | [See it in action](http://abshkpskr211.pythonanywhere.com/) </br>
