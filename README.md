@@ -5,13 +5,14 @@ Coming to the technical side of me. I have experience in building live dashboard
 
 #### :closed_book: Here is a protfolio website to demostrate the skills :  [abshkpskr.github.io](abshkpskr.github.io)
 #### :chart_with_upwards_trend: Data science portfolio repository for source code : [Data-science-portfolio](https://github.com/AbshkPskr/Data-science-portfolio)
-#### :scroll: 
+#### :scroll: Data science certificates : [Edwisor](https://github.com/AbshkPskr/abshkpskr.github.io/blob/master/Certificates/Edwisor.pdf)
+<a href="//github.com/mozilla/pdf.js/raw/master/examples/helloworld/helloworld.pdf">Test PDF</a>
+<a href="//github.com/AbshkPskr/abshkpskr.github.io/blob/master/Certificates/Edwisor.pdf">Test PDF</a>
+#### :page_facing_up: Link to my resume if you have any opportunities : [Resume]()
 
 #### 🔭 I’m currently working on : [Zomato review Analysis](https://github.com/AbshkPskr/Zomato-Reviews-Analysis) | [See it in action](http://abshkpskr211.pythonanywhere.com/)
-#### 🌱 I’m currently learning   : [Google data analytics certification](https://www.coursera.org/professional-certificates/google-data-analytics)
-#### 📫 How to reach me          : [LinkedIn](https://www.linkedin.com/in/abshkpskr/) | [Medium](https://medium.com/https://medium.com/@282abhishek) | [HackerRank](https://www.hackerrank.com/282abhishek)
-
-
+#### 🌱 I’m currently learning : [Google data analytics certification](https://www.coursera.org/professional-certificates/google-data-analytics)
+#### 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/abshkpskr/) | [Medium](https://medium.com/https://medium.com/@282abhishek) | [HackerRank](https://www.hackerrank.com/282abhishek)
 
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
