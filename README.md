@@ -1,4 +1,4 @@
-![BannerGIF](https://github.com/AbshkPskr/abshkpskr.github.io/blob/master/intro.gif)
+![BannerGIF](https://github.com/AbshkPskr/abshkpskr.github.io/blob/master/banner.gif)
 
 ## About me
 Hi, I am Abhishek, a Data analyst. I have worked on various data analytics projects and eager to learn more in the realm of data. My curiosity to understand the functioning of the world around us, and desire to learn more, lead me to explore the vast quantity of data. The kind of tasks and objectives that can be achieved, the endless answers that data can give, the information that we can gather and process all together can bring a purpose into reality through the process of data wrangling has always fascinated me.
