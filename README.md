@@ -1,5 +1,9 @@
 ![BannerGIF](https://github.com/AbshkPskr/AbshkPskr/blob/main/banner.gif)
 
+<p align="center">
+  <img src="https://github.com/AbshkPskr/AbshkPskr/blob/main/banner.gif" alt="animated" />
+</p>
+
 ## About me
 Hi, I am Abhishek, a Data analyst. I have worked on various data analytics projects and eager to learn more in the realm of data. My curiosity to understand the functioning of the world around us, and desire to learn more, lead me to explore the vast quantity of data. The kind of tasks and objectives that can be achieved, the endless answers that data can give, the information that we can gather and process all together can bring a purpose into reality through the process of data wrangling has always fascinated me.
 
