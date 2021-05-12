@@ -1,5 +1,3 @@
-![BannerGIF](https://github.com/AbshkPskr/AbshkPskr/blob/main/banner.gif)
-
 <p align="center">
   <img src="https://github.com/AbshkPskr/AbshkPskr/blob/main/banner.gif" alt="animated" />
 </p>
